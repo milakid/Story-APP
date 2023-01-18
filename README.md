@@ -8,6 +8,7 @@
 <h4 >This is My Story APP Using Android Studio</h4>
 
 </a>Screenshots</h2>
+
 <table>
 <thead>
 <tr>
@@ -38,7 +39,6 @@
 <li>Visual Studio Code (Recommended) - <a href="https://code.visualstudio.com/" rel="nofollow">Official Website</a></li>
 </ul>
 
-
 <p dir="auto">Dependencies</p>
 
 <ul dir="auto">
@@ -61,7 +61,6 @@ DistributionUrl=https://services.gradle.org/distributions/gradle-7.2-bin.zip
 <table>
 <thead>
 <tr>
-
 
 <a href="(https://github.com/milakid"><h3>All of my projects are available at</h3></a>
 
@@ -91,4 +90,3 @@ DistributionUrl=https://services.gradle.org/distributions/gradle-7.2-bin.zip
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/milesyedl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="milesyedl" /></a><a href="https://ko-fi.com/milesyedl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="milesyedl" /></a></p><br><br>
-
