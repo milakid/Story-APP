@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="title_story">
+        <item>MODULE OVERVIEW</item>
+        <item>story2</item>
+        <item>story3</item>
+        <item>story4</item>
+        <item>story5</item>
+        <item>story6</item>
+        <item>story7</item>
+        <item>story8</item>
+        <item>story9</item>
+        <item>story10</item>
+        <item>story11</item>
+        <item>story12</item>
+        <item>story13</item>
+        <item>story14</item>
+        <item>story15</item>
+
+
+    </string-array>
+
+
+</resources>

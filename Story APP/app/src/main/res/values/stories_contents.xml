@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ditails_story">
+        <item>The module provides students with a firm foundation in the role of physics in different science, technology and engineering fields together with mathematics and problem-solving skills. And also it prepares students to know the applications of physics in multidisciplinary areas that are at the forefront of technology in 21st Century, such as agricultural and archeological sciences, health and medical sciences, earth and space sciences, electronics and electromagnetism, communication technology, energy systems, and other related engineering and science fields that require a very solid background in physics</item>
+        <item>story2</item>
+        <item>story3</item>
+        <item>story4</item>
+        <item>story5</item>
+        <item>story6</item>
+        <item>story7</item>
+        <item>story8</item>
+        <item>story9</item>
+        <item>story10</item>
+        <item>story11</item>
+        <item>story12</item>
+        <item>story13</item>
+        <item>story14</item>
+        <item>story15</item>
+    </string-array>
+</resources>
