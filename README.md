@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milakid&label=Profile%20views&color=0e75b6&style=flat" alt="milakid" /> </p>
 
-# Computer-Science-Projects
+# Story-APP
 
 <h4 >This is My Story APP Using Android Studio</h4>
 
