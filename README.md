@@ -10,10 +10,10 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/milakid/Story-APP/main/img/list.png?token=GHSAT0AAAAAAB5S3KLCY2C6RRLWH2A6QIOMY6H43NA">
-<img src="https://raw.githubusercontent.com/milakid/Story-APP/main/img/list.png?token=GHSAT0AAAAAAB5S3KLCY2C6RRLWH2A6QIOMY6H43NA" width="272" height="auto" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/milakid/Story-APP/main/img/list.png?token=GHSAT0AAAAAAB5S3KLCY2C6RRLWH2A6QIOMY6H43NA">
-<img src="https://raw.githubusercontent.com/milakid/Story-APP/main/img/list.png?token=GHSAT0AAAAAAB5S3KLCY2C6RRLWH2A6QIOMY6H43NA" width="272" height="auto" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/milakid/Story-APP/blob/main/img/list.png">
+<img src="https://github.com/milakid/Story-APP/blob/main/img/list.png" width="272" height="auto" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/milakid/Story-APP/blob/main/img/list.png">
+<img src="https://github.com/milakid/Story-APP/blob/main/img/list.png" width="272" height="auto" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
