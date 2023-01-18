@@ -11,9 +11,9 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/alamin1x0/eShopping/blob/main/list.png"><img src="/alamin1x0/eShopping/raw/main/img/1.png" width="272" height="auto" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/alamin1x0/eShopping/blob/main/preview.png"><img src="/alamin1x0/eShopping/raw/main/img/2.png" width="272" height="auto" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="/alamin1x0/eShopping/blob/main/preview.png"><img src="/alamin1x0/eShopping/raw/main/img/3.png" width="272" height="auto" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/alamin1x0/eShopping/blob/main/list.png"><img src="/alamin1x0/eShopping/raw/main/img/list.png" width="272" height="auto" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/alamin1x0/eShopping/blob/main/preview.png"><img src="/alamin1x0/eShopping/raw/main/img/preview.png" width="272" height="auto" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="/alamin1x0/eShopping/blob/main/preview.png"><img src="/alamin1x0/eShopping/raw/main/img/preview.png" width="272" height="auto" style="max-width: 100%;"></a></td>
 </tr>
 </tbody>
 </table>
